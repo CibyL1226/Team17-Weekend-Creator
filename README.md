@@ -4,7 +4,9 @@ Welcome to our Github Repository for the application built to create a fun and e
 The files are seperated in 4 different catergories: data, functions, google_places, and models. requirements.txt as a part of the main branch. 
 
 Here are the links to where we host our applications (feel free to test it out with your own simple prompt like: "Find me cafes open late in New York"):
+
 [**Food Ranking App**](https://restaurant-ranking-app-o6gfgyxixq3jhnzshtdwxf.streamlit.app/)
+
 [**Event Ranking App**](https://event-ranking-app-5tu4ifwhchfjfcbxodxnlo.streamlit.app/)
 
 ### Steps to running the code for Food Ranking Apps:
