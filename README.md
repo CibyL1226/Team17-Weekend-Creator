@@ -12,7 +12,7 @@ Here are the links to where we host our applications (feel free to test it out w
 ### Steps to running the code for Food Ranking Apps:
 1) Go to **weak_label_gen.ipynb** and run eitehr resturant_table.csv (for yelp restaurant) or food_df.csv(for more restaurant training data) and **restaurant_queries.txt** for queries
 2) Then pass the resulting weak-labeled dataset with selected features through **ranking_model.ipynb** to train the model where trained model will automatically save locally at the end of the file 
-3) To host the model in cloud vis Streamlit. Create an empty Github repository, then upload app.py, requirements.txt, trained model, and dataset you chose to use from Step 1
+3) To host the model in cloud vis Streamlit. Create an empty Github repository, then upload **app.py, requirements.txt, trained model,** and **dataset** you chose to use from Step 1
 4) Make a free account on Streamlit and set the endpoint as app.py then click **Deploy**, a link hosting the application would generate
 5) Try it out with your query!
 6) Repeat the same steps for Event Ranking App just make sure to use the files starting in **tm**
